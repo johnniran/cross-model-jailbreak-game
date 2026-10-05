@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript and this implementation version when using these simulations."
+title: "Implementation for a theoretical finite horizon game of attack and defence effort for cross model jailbreak transfer in large language models"
+version: 13.0.0
+date-released: 2026-10-04
+authors:
+  - family-names: Adeniran
+    given-names: John Olalekan
+  - family-names: Ogundoyin
+    given-names: Ibrahim Kazeem
+  - family-names: Ojo
+    given-names: Oluwafolake Esther
